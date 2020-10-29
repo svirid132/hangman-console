@@ -6,4 +6,4 @@ The game hangman
 It's a simple project showing hangman's game. 
 Wretten in Python.
 
-new branch 3
+new branch 3 5
